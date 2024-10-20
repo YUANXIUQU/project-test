@@ -1,0 +1,10 @@
+﻿  game.cpp
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(127,15): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(212,21): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(218,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Desktop\oogp\oogp_sdl\SDL_Project__Template\game.cpp(223,19): warning C4018: '<': signed/unsigned mismatch
+  SDL_Project__Template.vcxproj -> C:\Users\29037\Desktop\oogp\oogp_sdl\Debug\SDL_Project__Template.exe
